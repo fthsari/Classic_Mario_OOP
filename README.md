@@ -1,7 +1,7 @@
 # Classic_Mario_OOP
 ## Simple Mario Game
 This is a simple Mario game developed using object-oriented programming principles and the SFML library. The game is designed to provide a fun and interactive experience for players, reminiscent of the classic Super Mario games.
-
+![Screen Shot](images/ss.png)
 ## Features
  - Player control: Move left, right, and jump to navigate through the level.
  - Enemies: Avoid or defeat various enemies (turtles) to progress through the levels.
